@@ -25,4 +25,3 @@
 # Ekran görüntüsü
 
 # ![](bes1.gif)
-# Firebase-X-Clone
