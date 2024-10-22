@@ -16,6 +16,7 @@
 
 - Bir kullanıcın kimliğini doğrulama süreciidir.
 - Kullanıcı adı / şifre , parmak izi, google hesabı kimlik doğrulama için kullnılabilir.
+- Giriş esnasında doğrulama yapmadığımız için profil fotoğrafı ve diğer kişisel bilgiler gelmemektedir.
 
 # Authorization (Yetkilendirme)
 
